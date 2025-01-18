@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a project made by me with HTML and CSS utilizing Bootstrap to practice building a website with useful functions.
+This is a web development project created by me using HTML and CSS, leveraging Bootstrap to practice building a website with useful functionalities.
 
 ---
 
